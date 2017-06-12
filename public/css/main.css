@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font: normal 1.5em/1.5 "Helvetica Neue";
+}
+
+ul {
+	list-style: none;
+}
+
